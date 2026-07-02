@@ -1,5 +1,7 @@
 ## Olá, eu sou o Kauã, Muito prazer!
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FF1E27&center=true&vCenter=true&width=450&lines=JavaScript+%7C+TypeScript;React.js+%7C+Node.js;Python+%7C+C%23;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
