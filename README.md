@@ -4,7 +4,7 @@
 </p>
 
 
-[Meu portfolio:](https://portfolio-kaua-six.vercel.app)
+[Meu portfolio](https://portfolio-kaua-six.vercel.app)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
